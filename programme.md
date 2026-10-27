@@ -2,11 +2,11 @@
 
 ## Proposed activities
 
-- Welcome and registration.
-- Group icebreaker.
-- Campus discovery challenge.
-- Sharing session.
-- Closing and feedback.
+- Welcome and registration.(5min)
+- Group icebreaker. (30min)
+- Campus discovery challenge.(1hr)
+- Sharing session.(1hr)
+- Closing and feedback. (30min)
 
 ## Questions for discussion
 
